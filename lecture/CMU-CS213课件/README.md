@@ -1,1 +1,0 @@
-Notes and resource links on [https://vel.life/Notes-of-Intro-to-Computer-System](https://vel.life/Notes-of-Intro-to-Computer-System/).
